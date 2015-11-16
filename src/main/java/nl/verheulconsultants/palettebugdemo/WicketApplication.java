@@ -11,6 +11,7 @@ import org.apache.wicket.protocol.http.WebApplication;
 public class WicketApplication extends WebApplication {
 
     /**
+     * @return 
      * @see org.apache.wicket.Application#getHomePage()
      */
     @Override
